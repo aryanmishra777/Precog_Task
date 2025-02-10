@@ -10,16 +10,12 @@ This repository contains the codebase for the Precog Task. The project is divide
 Precog_Task/
 │
 ├── PART1/
-│   ├── data/
-│   ├── models/
-│   ├── src/
-│   └── main.py
+│   ├── eng_news_2024_300K-sentences
+│   └── part1.py
+|   |___ compare_pretrained.py
 │
 ├── PART2/
-│   ├── data/
-│   ├── models/
-│   ├── src/
-│   └── main.py
+│   └── part2.py
 |
 └── README.md
 ```
