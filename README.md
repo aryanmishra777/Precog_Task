@@ -20,12 +20,7 @@ Precog_Task/
 │   ├── models/
 │   ├── src/
 │   └── main.py
-│
-├── models/
-│   ├── model1.pth
-│   └── model2.pth
-│
-├── requirements.txt
+|
 └── README.md
 ```
 
